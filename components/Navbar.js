@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className='flex justify-between items-center px-4 border-b border-gray-500 pb-3 md:pb-6'>
       <a href='/'>
         <h1 className='text-xl font-bold sm:text-2xl font-CalSans text-gray-800 transition-all hover:opacity-70'>
-          📝 coverletterGPT.io
+          📝 coverletterGPT
         </h1>
       </a>
       <a
